@@ -9,19 +9,20 @@
         0,
         0
       ],
-      "id": "5f854ff2-816c-40e6-8d4c-4230a8fa3905",
-      "name": "When clicking ‘Execute workflow’"
+      "id": "node-609fab1",
+      "name": "When clicking 'Execute workflow'"
     }
   ],
   "pinData": {},
-  "connections": {},
+  "connections": {
+    "When clicking 'Execute workflow'": {
+      "main": [
+        []
+      ]
+    }
+  },
   "active": false,
   "settings": {
     "executionOrder": "v1"
-  },
-  "versionId": "",
-  "meta": {
-    "instanceId": "..."
-  },
-  "tags": []
+  }
 }

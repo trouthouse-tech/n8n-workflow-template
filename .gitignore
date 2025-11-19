@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Generated workflow (regenerate from code)
+workflow.json
+

@@ -1,0 +1,22 @@
+{
+  "name": "n8n-workflow-template",
+  "version": "1.0.0",
+  "description": "Generic code-driven n8n workflow template",
+  "main": "src/index.ts",
+  "scripts": {
+    "generate": "ts-node generate.ts",
+    "build": "tsc",
+    "dev": "ts-node generate.ts"
+  },
+  "keywords": [
+    "n8n",
+    "workflow",
+    "template"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
+
